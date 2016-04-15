@@ -12,7 +12,6 @@
 
 ### Copy:
 
-- `rm -rf /` as a service
 - For Experienced Developers: Many talented programmers develop substance abuse issues in
   the pressure-cooker environment of the tech industry.  Fork in the Road provides a place 
   for programmers to get professional help while getting back in touch with
