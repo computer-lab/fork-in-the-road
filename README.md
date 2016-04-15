@@ -1,4 +1,4 @@
-# Combination Rehab Bootcamp Landing Page
+# Combination Rehab-Bootcamp Landing Page
 
 ### Name Ideas:
 
