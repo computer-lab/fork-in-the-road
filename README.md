@@ -8,7 +8,8 @@
 ### Possible Themes:
 
 - http://themeforest.net/item/academica-educational-html-theme/full_screen_preview/13508340
-- 
+- http://themeforest.net/item/-woody-responsive-coming-soon/full_screen_preview/15365596
+- http://woody.mountaintheme.com/constellation/demo-3/demo.html
 
 ### Copy:
 
